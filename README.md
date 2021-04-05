@@ -1,5 +1,5 @@
-# Workshop Name
-By: John Park, Bharadwaj Swaminathan, Simran Sachdev, Spencer Le
+# Applied Methods for Social Sciences in Python workshop
+By: John Park, Bharadwaj Swaminathan, Simran Sachdev, Spencer Le  
 Workshop Date: 4/6/21
 
 ## Workshop Goal(s): 
