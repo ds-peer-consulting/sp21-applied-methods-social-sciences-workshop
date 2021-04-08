@@ -1,5 +1,5 @@
 # Applied Methods for Social Sciences in Python workshop
-By: John Park, Bharadwaj Swaminathan, Simran Sachdev
+By: John Park, Bharadwaj Swaminathan, Simran Sachdev  
 Workshop Date: 4/6/21
 
 ## Workshop Goal(s): 
