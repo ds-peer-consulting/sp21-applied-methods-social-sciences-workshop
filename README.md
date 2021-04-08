@@ -2,7 +2,7 @@
 By: John Park, Bharadwaj Swaminathan, Simran Sachdev  
 Workshop Date: 4/6/21
 
-## Workshop Goal(s): 
+## Workshop Goals: 
     - Learn how to import and modify data in Python via Pandas
     - Apply OLS and related statistical techniques
     - Demonstrate a basic example workflow from raw data to analysis
