@@ -7,5 +7,5 @@ Workshop Date: 4/6/21
     - Apply OLS and related statistical techniques
     - Demonstrate a basic example workflow from raw data to analysis
 
-## For UC Berkeley Students: [Datahub Link]()
+## For UC Berkeley Students: [Datahub Link](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-peer-consulting/sp21-applied-methods-social-sciences-workshop&branch=main&subpath=applied-methods-python-workshop(ANSWERS).ipynb)
 
